@@ -1,2 +1,0 @@
-# ConsultecAssignment
-Spring/SP application
